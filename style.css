@@ -1,0 +1,53 @@
+.main {
+	max-width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:160px;
+	text-align: center
+
+}
+
+.login {
+	margin-top:50px;
+	margin-left: auto;
+	margin-right:auto;
+	background-color:00AEEF;
+	border:none;
+	width:150px;
+	height:75px;
+	font-size:25px;
+}
+
+.enter {
+	margin-top:50px;
+}
+
+
+.input-text {
+	width:400px;
+	height:600px;
+}
+
+ 
+.loading-image {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 120px;
+    height: 120px;
+    margin:-60px 0 0 -60px;
+    -webkit-animation:spin 1.5s linear infinite;
+    -moz-animation:spin 1.5s linear infinite;
+    animation:spin 1.5s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+
+
+
+
+
+
+
