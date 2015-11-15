@@ -2,27 +2,44 @@
     "name": "flare",
     "children": [
         {
-            "name": "creativity",
-            "size": 25
+            "name": "Idea/Interest",
+            "children": [
+                {
+                    "name":"Am Passionate About",
+                    "size":4
+                },
+                {
+                    "name":"Future Plans",
+                    "size":3
+                },
+                {
+                    "name":"Market Validation",
+                    "size":2
+                },
+                {
+                    "name":"Social Impact",
+                    "size":1
+                }
+            ]
         },
         {
-            "name": "freedom",
-            "size": 23
+            "name": "Risk",
+            "size":8
         },
         {
-            "name": "possibility of $$",
+            "name": "Team",
+            "size": 3
+        },
+        {
+            "name": "Purpose",
             "size": 19
         },
         {
-            "name": "work-life balance",
-            "size": 19
-        },
-        {
-            "name": "risk",
+            "name": "Opportunity",
             "size": 15
         },
         {
-            "name": "the team",
+            "name": "Contribution",
             "size": 2
         }
     ]
