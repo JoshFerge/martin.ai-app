@@ -120,7 +120,6 @@ d3.json("json_data/flare.json", function(error, root) {
     .enter().append("text")
       .attr("class", "label")
       .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
-      .style("font-size", function(d) { return d.size/100 })
       .style("display", function(d) { return d.parent === root ? null : "none"; })
       .text(function(d) { return d.name; });
 
@@ -132,8 +131,8 @@ d3.json("json_data/flare.json", function(error, root) {
   zoomTo([root.x, root.y, root.r * 2 + margin]);
 
   function zoom(d) {
-    var focus0 = focus; focus = d;
 
+    var focus0 = focus; focus = d;
     var transition = d3.transition()
         .duration(d3.event.altKey ? 7500 : 750)
         .tween("zoom", function(d) {
@@ -147,7 +146,8 @@ d3.json("json_data/flare.json", function(error, root) {
     transition.selectAll("text")
       .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
-        .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
+        .style("font-size", function(d) { return d.depth === 3 ? 20 : 30; })
+        .each("start", function(d) {if (d.parent === focus) this.style.display = "inline"; })
         .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
   }
 
