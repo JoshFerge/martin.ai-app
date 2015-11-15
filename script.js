@@ -10,7 +10,7 @@ window.onload = function() {
 function makeTextField() {
 	document.getElementById("Add").style.visibility = "hidden"
 	document.getElementById("Text").style.visibility = "visible"
-	document.getElementById("AddText").innerHTML = "Just paste in your interview. I will take care of the rest!"
+	document.getElementById("AddText").innerHTML = "Just paste in your interviews. I will take care of the rest!<br><br> <button class=\"btn btn-primary\" >Upload Document</button> "
 	
 }
 

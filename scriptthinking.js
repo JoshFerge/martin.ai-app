@@ -4,5 +4,5 @@ function goPage() {
 
 setTimeout(function() {
 	console.log("test")
-	window.location = "dataviz.html"
+	window.location = "dashboard.html"
 },4000)
