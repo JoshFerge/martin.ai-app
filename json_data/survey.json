@@ -1,46 +1,137 @@
-{
-    "name": "flare",
-    "children": [
-        {
-            "name": "Idea/Interest",
-            "children": [
-                {
-                    "name":"Am Passionate About",
-                    "size":4
-                },
-                {
-                    "name":"Future Plans",
-                    "size":3
-                },
-                {
-                    "name":"Market Validation",
-                    "size":2
-                },
-                {
-                    "name":"Social Impact",
-                    "size":1
-                }
-            ]
-        },
-        {
-            "name": "Risk",
-            "size":8
-        },
-        {
-            "name": "Team",
-            "size": 3
-        },
-        {
-            "name": "Purpose",
-            "size": 19
-        },
-        {
-            "name": "Opportunity",
-            "size": 15
-        },
-        {
-            "name": "Contribution",
-            "size": 2
-        }
-    ]
-}
+[
+    {
+        "name": "risk",
+        "children": [
+            {
+                "name": "challenges",
+                "children": [
+                    {
+                        "name": "\"speed bumps\"",
+                        "size": 1
+                    }
+                ]
+            },
+            {
+                "name": "competition",
+                "children": [
+                    {
+                        "name": "\"startup already exists\"",
+                        "size": 1
+                    },
+                    {
+                        "name": "\"Explore the competitive landscape\"",
+                        "size": 1
+                    }
+                ]
+            },
+            {
+                "name": "job security",
+                "children": [
+                    {
+                        "name": "\"more experience...before I jump out there\"",
+                        "size": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "market",
+        "children": [
+            {
+                "name": "market surveys",
+                "children": [
+                    {
+                        "name": "\"start with market surveys\"",
+                        "size": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "contribution",
+        "children": [
+            {
+                "name": "\"likelihood of making a difference\"",
+                "size": 1
+            },
+            {
+                "name": "\"How could I add value?  Why me?\"",
+                "size": 1
+            }
+        ]
+    },
+    {
+        "name": "team",
+        "children": [
+            {
+                "name": "\"get to know the founder\"",
+                "size": 1
+            },
+            {
+                "name": "\"Find an amazing co-founder\"",
+                "size": 1
+            },
+            {
+                "name": "\"I would have lunch with the co-founders\"",
+                "size": 1
+            }
+        ]
+    },
+    {
+        "name": "idea",
+        "children": [
+            {
+                "name": "passion",
+                "children": [
+                    {
+                        "name": "\"whether or not I care about the idea \"",
+                        "size": 1
+                    },
+                    {
+                        "name": "\"I'd have to feel passionately about the idea.\"",
+                        "size": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "schedule",
+        "children": [
+            {
+                "name": "conflicts",
+                "children": [
+                    {
+                        "name": "\"logistics of my life\"",
+                        "size": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "autonomy",
+        "children": [
+            {
+                "name": "\"autonomy\"",
+                "size": 1
+            }
+        ]
+    },
+    {
+        "name": "compensation",
+        "children": [
+            {
+                "name": "benefits",
+                "children": [
+                    {
+                        "name": "\"benefits\"",
+                        "size": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
