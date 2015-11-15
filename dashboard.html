@@ -111,7 +111,7 @@ d3.json("json_data/flare.json", function(error, root) {
       .data(nodes)
     .enter().append("circle")
       .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
-      .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+      .style("fill", function(d) { return d.children ? color(d.depth) : d.color; })
       .style("visibility", function(d) { return (d.depth === 1 || d.depth === 2 || d.depth === 0) ? null : "hidden"; })
       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
 

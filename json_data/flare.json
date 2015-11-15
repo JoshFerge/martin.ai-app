@@ -18,7 +18,8 @@
                     "children": [
                         {
                             "name": "startup already exists",
-                            "size": 1
+                            "size": 1,
+                            "color": "red"
                         },
                         {
                             "name": "\"Explore the competitive landscape\"",
@@ -31,15 +32,18 @@
                     "children": [
                         {
                             "name": "\"more experience...before I jump out there\"",
-                            "size": 1
+                            "size": 1,
+                            "color": "red"
                         },
                         {
                             "name": "\"how secure is funding\"",
-                            "size": 1
+                            "size": 1,
+                            "color": "red"
                         },
                         {
                             "name": "\"how secure is salary\"",
-                            "size": 1
+                            "size": 1,
+                            "color": "red"
                         },
                         {
                             "name": "\"where they're at financially\"",
@@ -82,12 +86,14 @@
                             "size": 1
                         },
                         {
-                            "name": "\"What research have they already done in this space?\"",
-                            "size": 1
+                            "name": "\"What research have they already done?\"",
+                            "size": 1,
+                            "color": "red"
                         },
                         {
                             "name": "\"market validation\"",
-                            "size": 1
+                            "size": 1,
+                            "color": "red"
                         }
                     ]
                 },
@@ -148,8 +154,9 @@
                             "size": 1
                         },
                         {
-                            "name": "\"a goal is more meaningful than a job\"",
-                            "size": 1
+                            "name": "\"more meaningful\"",
+                            "size": 1,
+                            "color": "lightgreen"
                         },
                         {
                             "name": "\"motive\"",
@@ -157,19 +164,22 @@
                         },
                         {
                             "name": "\"build value in the world\"",
+                            "size": 1,
+                            "color": "lightgreen"
+                        },
+                        {
+                            "name": "\"pushes boundaries\"",
                             "size": 1
                         },
                         {
-                            "name": "\"an idea that probably pushes boundaries\"",
-                            "size": 1
-                        },
-                        {
-                            "name": "\"being able to impact the world\"",
-                            "size": 1
+                            "name": "\"impact the world\"",
+                            "size": 1,
+                            "color": "lightgreen"
                         },
                         {
                             "name": "\"solve an important problem\"",
-                            "size": 1
+                            "size": 1,
+                            "color": "lightgreen"
                         },
                         {
                             "name": "\"opportunity for impact\"",
@@ -345,11 +355,13 @@
                         },
                         {
                             "name": "\"it depends on if it is paid\"",
-                            "size": 1
+                            "size": 1,
+                            "color": "red"
                         },
                         {
                             "name": "\"I don't work for free\"",
-                            "size": 1
+                            "size": 1,
+                            "color": "red"
                         }
                     ]
                 },
@@ -366,7 +378,8 @@
                         },
                         {
                             "name": "\"what the return will be\"",
-                            "size": 1
+                            "size": 1,
+                            "color": "red"
                         }
                     ]
                 },

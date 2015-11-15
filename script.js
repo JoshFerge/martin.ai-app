@@ -9,9 +9,13 @@ window.onload = function() {
 
 function makeTextField() {
 	document.getElementById("Add").style.visibility = "hidden"
-	document.getElementById("Text").style.visibility = "visible"
-	document.getElementById("AddText").innerHTML = "Just paste in your interviews. I will take care of the rest!<br><br> <button class=\"btn btn-primary\" >Upload Document</button> "
+	// document.getElementById("Text").style.visibility = "visible"
+	document.getElementById("AddText").innerHTML = "Just upload your interviews! I will take care of the rest!<br><br> <button class=\"btn btn-primary\" data-toggle=\"modal\" data-target=\".bs-example-modal-lg\" >Upload Document</button> "
 	
 }
 
 
+
+$("#modal").click(function() {
+	window.location = "thinking.html"
+});
