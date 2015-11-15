@@ -1,0 +1,29 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "creativity",
+            "size": 25
+        },
+        {
+            "name": "freedom",
+            "size": 23
+        },
+        {
+            "name": "possibility of $$",
+            "size": 19
+        },
+        {
+            "name": "work-life balance",
+            "size": 19
+        },
+        {
+            "name": "risk",
+            "size": 15
+        },
+        {
+            "name": "the team",
+            "size": 2
+        }
+    ]
+}
