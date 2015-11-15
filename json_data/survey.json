@@ -2,45 +2,438 @@
     "name": "flare",
     "children": [
         {
-            "name": "Idea/Interest",
+            "name": "risk",
             "children": [
                 {
-                    "name":"Am Passionate About",
-                    "size":4
+                    "name": "challenges",
+                    "children": [
+                        {
+                            "name": "\"speed bumps\"",
+                            "size": 1
+                        }
+                    ]
                 },
                 {
-                    "name":"Future Plans",
-                    "size":3
+                    "name": "competition",
+                    "children": [
+                        {
+                            "name": "\"startup already exists\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"Explore the competitive landscape\"",
+                            "size": 1
+                        }
+                    ]
                 },
                 {
-                    "name":"Market Validation",
-                    "size":2
+                    "name": "job security",
+                    "children": [
+                        {
+                            "name": "\"more experience...before I jump out there\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"how secure is funding\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"how secure is salary\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"where they're at financially\"",
+                            "size": 1
+                        }
+                    ]
                 },
                 {
-                    "name":"Social Impact",
-                    "size":1
+                    "name": "progress",
+                    "children": [
+                        {
+                            "name": "\"What has been done already?\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"if they are starting from ground zero\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "general",
+                    "children": [
+                        {
+                            "name": "\"I would like to be involved but would not be able to dedicate myself full-time.\"",
+                            "size": 1
+                        }
+                    ]
                 }
             ]
         },
         {
-            "name": "Risk",
-            "size":8
+            "name": "idea",
+            "children": [
+                {
+                    "name": "validation",
+                    "children": [
+                        {
+                            "name": "\"start with market surveys\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"What research have they already done in this space?\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"market validation\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "passionate about",
+                    "children": [
+                        {
+                            "name": "\"whether or not I care about the idea \"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"I'd have to feel passionately about the idea.\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"see if I am actually interested in the idea\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"i believe in the project\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"The best work is done out of passion\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"decide if it aligns with my interests\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"very passionate about new ideas\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"If I liked the idea, I might join.\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"interest in the idea or market\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"I have to have an interest in the subject matter\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "mission",
+                    "children": [
+                        {
+                            "name": "\"the mission\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"What is the purpose?\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"a goal is more meaningful than a job\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"motive\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"build value in the world\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"an idea that probably pushes boundaries\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"being able to impact the world\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"solve an important problem\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"opportunity for impact\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "future plans",
+                    "children": [
+                        {
+                            "name": "\"the overall plan\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"What are future plans\"",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "Team",
-            "size": 3
+            "name": "contribution",
+            "children": [
+                {
+                    "name": "\"likelihood of making a difference\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"How could I add value?  Why me?\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"possibility to reach my potential and add value\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"see if not only am I a right fit\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"how they want me to contribute\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"If I could participate with a purpose.\"",
+                    "size": 1
+                }
+            ]
         },
         {
-            "name": "Purpose",
-            "size": 19
+            "name": "team",
+            "children": [
+                {
+                    "name": "\"get to know the founder\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"Find an amazing co-founder\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"I would have lunch with the co-founders\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"What does the rest of the team look like?\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"whether the team seemed competent and easy to work with\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"working with smart entrepreneurs\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"betting the entire success of the company on about the first 10 hires\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"probably only join when I knew the founder\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"team energy.\"",
+                    "size": 1
+                },
+                {
+                    "name": "\"the team\"",
+                    "size": 1
+                }
+            ]
         },
         {
-            "name": "Opportunity",
-            "size": 15
+            "name": "schedule",
+            "children": [
+                {
+                    "name": "conflicts",
+                    "children": [
+                        {
+                            "name": "\"logistics of my life\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "workload",
+                    "children": [
+                        {
+                            "name": "\"Will I be expected to work 80-hour weeks?\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "feasibility",
+                    "children": [
+                        {
+                            "name": "\"I'm freelancing right now so the timing is right.\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "alternatives",
+                    "children": [
+                        {
+                            "name": "\"Maybe, only because I love my job now (:\"",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "name": "Contribution",
-            "size": 2
+            "name": "autonomy",
+            "children": [
+                {
+                    "name": "\"autonomy\"",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "compensation",
+            "children": [
+                {
+                    "name": "benefits",
+                    "children": [
+                        {
+                            "name": "\"benefits\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"benefits\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "salary",
+                    "children": [
+                        {
+                            "name": "\"salary\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"salary\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"it depends on if it is paid\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"I don't work for free\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "equity",
+                    "children": [
+                        {
+                            "name": "\"equity\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"just equity\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"what the return will be\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "general",
+                    "children": [
+                        {
+                            "name": "\"what are your compensation packages?\"",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "work-life balance",
+            "children": [
+                {
+                    "name": "remote work",
+                    "children": [
+                        {
+                            "name": "\"opportunity to work remotely\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "culture",
+                    "children": [
+                        {
+                            "name": "\"work culture\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "schedule conflicts",
+                    "children": [
+                        {
+                            "name": "\"If I didn't have anything else important going on\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "family",
+                    "children": [
+                        {
+                            "name": "\"my wife and kids\"",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "workload",
+                    "children": [
+                        {
+                            "name": "\"mental health\"",
+                            "size": 1
+                        },
+                        {
+                            "name": "\"I already have an established lifestyle which I'm not willing to compromise\"",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
